@@ -31,8 +31,8 @@ console.log(name1.toUpperCase());
 let name2 = "RAHUL";
 console.log(name2.toLowerCase());
 
-let name3 = "  abc  "; //use to remove all spaces
-console.log(name3.trim());
+let name3 = "  abc  "; 
+console.log(name3.trim()); //use to remove all spaces
 
 console.log(name1.slice(0,2)); //use to return parts
 
