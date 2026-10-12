@@ -2,7 +2,7 @@
 
 console.log("Hello World!");
 
-//example 1
+//example 1 object
 const student = {
     Name : "Rahul",
     age : 20,
@@ -12,7 +12,7 @@ const student = {
 
 console.log(student);
 
-//example 2
+//example 2 object
 const profile = {
     id : "@shradhakhapra",
     name : "Shradha Khapra",

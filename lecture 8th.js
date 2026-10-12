@@ -1,7 +1,7 @@
 //JavaScript Class and Objects 
 
 //Prototype
-//It is a javascripy built in object which contains some properties and method
+//It is a javascript built in object which contains some properties and method
 const employee = {
    calcTax() {
       console.log("Tax rate is 30%");
