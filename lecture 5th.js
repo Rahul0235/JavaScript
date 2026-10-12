@@ -20,7 +20,7 @@ myFunction("I love JS");   //the value under function call is argument
 const sum =(a,b) =>{
     return a + b;
 }
-console.log(sum);
+console.log(sum(10, 20));
 
 //Array methods use to perform some specific tasks 
 
