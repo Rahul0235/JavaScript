@@ -1,5 +1,5 @@
 //JavaScript Fetch API
-//API - application programming interfacce
+//API - application programming interface
 
 //Fetch api : It is an interface for sending and receving resources
 

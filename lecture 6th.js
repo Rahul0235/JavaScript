@@ -9,13 +9,13 @@ document.getElementById(ById("myId"));
 //selection with class
 document.getElementsByClassName("myClass");
 
-//selexting with tag
+//selecting with tag
 document.getElementsByTagName("p");
 
 //use to print the elements present in document of html 
 console.dir(document);
 
-//Query selctor (use to return node list)
+//Query selector (use to return node list)
 //Returns 1st Element
 document.querySelector("myId / myClass / tag");
 
@@ -23,7 +23,7 @@ document.querySelector("myId / myClass / tag");
 document.querySelectorAll("myId / myClass / tag")
 
 /*Properties for DOM manipulation
-tag name : return tag foe element nodes
+tag name : return tag for element nodes
 innerText : return the text content of the element and all its children
 innerHTML : returns the plain text or HTML contents in the elements
 textContent : retunrs textual content even for hidden elements
@@ -46,3 +46,4 @@ node.after(Element);  //adds after the node(outside)
 
 //Delete Element
 node.remove() //removes the node
+

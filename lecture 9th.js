@@ -8,7 +8,7 @@ console.log("Hello");
 
 setTimeout(()=> {
     console.log("Namaste");
-}, 2000); //Tiiimeout 4 second = 4000 mili second
+}, 2000); //Time out 2 second = 4000 mili second
 
 console.log("Hii");
 
@@ -34,7 +34,7 @@ getData(1, () => {
     });
 });
 
-//Promises and Promise chaining (It was introduce to solve  the problem of callback-hell)
+//Promises and Promise chaining (It was introduce to solve the problem of callback-hell)
 //Promise chaining (It means .then inside .then)
 const getPromise = () => {
   return new Promise((resolve, reject) => {
